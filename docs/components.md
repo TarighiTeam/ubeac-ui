@@ -8,6 +8,9 @@
 * [Image](/docs/components/primitive/image.md)
 * [Alert](/docs/components/primitive/alert.md)
 * [Label](/docs/components/primitive/label.md)
+* [ConfirmCheckBox](/docs/components/primitive/confirmcheckbox.md)
+* [DataList](/docs/components/primitive/datalist.md)
+* [HyperLink](/docs/components/primitive/hyperlink.md)
 
 ## Containers
 
