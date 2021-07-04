@@ -20,7 +20,7 @@
 
 ## Containers
 * [Card](/docs/components/primitive/Card.md)
-* * [Accordion](/docs/components/primitive/Accordion.md)
+* [Accordion](/docs/components/primitive/Accordion.md)
 ## Forms
 
 ## Reports
