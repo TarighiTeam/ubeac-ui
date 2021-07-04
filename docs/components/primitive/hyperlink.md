@@ -27,5 +27,5 @@
 ## Examples
 
 ```html
-<u-datalist Label="Go to google" ImageUrl="../img/link.png" ImageHeight="20" ImageWidth="20" NavigateUrl="https://google.com" ### Target="_blank" Text="click here" @OnClientClick="" />
+<u-hyperlink Label="Go to google" ImageUrl="../img/link.png" ImageHeight="20" ImageWidth="20" NavigateUrl="https://google.com" ### Target="_blank" Text="click here" @OnClientClick="" />
 ```
