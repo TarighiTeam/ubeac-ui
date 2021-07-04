@@ -13,14 +13,14 @@
 * [HyperLink](/docs/components/primitive/hyperlink.md)
 * [Autocomplete](/docs/components/primitive/autocomplete.md)
 
-* [Accordion](/docs/components/primitive/Accordion.md)
 * [Badges](/docs/components/primitive/Badges.md)
 * [Breadcrumb.md](/docs/components/primitive/breadcrumb.md)
-* [Card](/docs/components/primitive/Card.md)
+
 * [Dropdown](/docs/components/primitive/dropdown.md)
 
 ## Containers
-
+* [Card](/docs/components/primitive/Card.md)
+* * [Accordion](/docs/components/primitive/Accordion.md)
 ## Forms
 
 ## Reports
